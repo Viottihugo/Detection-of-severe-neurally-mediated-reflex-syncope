@@ -1,0 +1,4 @@
+Sensor_Positions_2.0
+Sensor#	Time	X	Y	Z
+1	2008	4194.77	-1270.67	-263.041	
+

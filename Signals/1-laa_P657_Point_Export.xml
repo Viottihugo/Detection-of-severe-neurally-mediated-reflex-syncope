@@ -1,0 +1,15 @@
+<Point ID="657" Date="10/07/20" Time="16:31:37">
+    <Annotations StartTime="2745031" Reference_Annotation="2000" Map_Annotation="1826" />
+    <WOI From="-305" To="-63" />
+    <Voltages Unipolar="0.651" Bipolar="0.384" MaxMicroBipolar="-10000" MaxMicroBipolarSourceChannelID="0" />
+    <Positions>
+        <Connector NAVISTAR_CONNECTOR="1-laa_P657_NAVISTAR_CONNECTOR_Sensor_Positions.txt" />
+        <Connector MAGNETIC_20_POLE_A_CONNECTOR="1-laa_P657_MAGNETIC_20_POLE_A_CONNECTOR_Eleclectrode_Positions.txt" />
+        <Connector MAGNETIC_20_POLE_A_CONNECTOR="1-laa_P657_MAGNETIC_20_POLE_A_CONNECTOR_Sensor_Positions.txt" />
+        <Connector NAVISTAR_CONNECTOR="1-laa_P657_NAVISTAR_CONNECTOR_Sensor_Positions_OnAnnotation.txt" />
+        <Connector MAGNETIC_20_POLE_A_CONNECTOR="1-laa_P657_MAGNETIC_20_POLE_A_CONNECTOR_Eleclectrode_Positions_OnAnnotation.txt" />
+        <Connector MAGNETIC_20_POLE_A_CONNECTOR="1-laa_P657_MAGNETIC_20_POLE_A_CONNECTOR_Sensor_Positions_OnAnnotation.txt" />
+    </Positions>
+    <Impedances Rate="100" Number="0" StartTime="2745031" />
+    <ECG FileName="1-laa_P657_ECG_Export.txt" />
+</Point>
